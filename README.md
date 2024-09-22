@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://capsule-render.vercel.app/api?type=egg&color=auto&height=120&section=header&text=Hello%20&fontSize=70" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chocofall)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chocofall&hide=contribs,prs&show_icons=true&theme=cobalt)
